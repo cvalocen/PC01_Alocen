@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PC01_Alocen</string>
+    <string name="valbtnsend">Enviar</string>
+    <string name="valetValor1">Ingrese valor 1</string>
+    <string name="valetValor2">Ingrese valor 2</string>
+    <string name="valtvSumaE">Suma</string>
+    <string name="valtvRestaE">Resta</string>
+    <string name="valtvMultiE">Multiplicacion</string>
+    <string name="valtvDiviE">Division</string>
+    <string name="valbtnback">Volver</string>
+</resources>
